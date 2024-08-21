@@ -1,6 +1,11 @@
 
 # Project Title
 
+A brief description of what this project does and who it's for
+
+
+# Project Title
+
 
 # COVID-2020 -Dashboard
 
@@ -36,7 +41,7 @@ Step 5 : Visual filters Slicers,cards,piechart,donut chart were added. Using vis
 
 
 ![DashBoard]
-![covid_dashboard](https://github.com/user-attachments/assets/e89ce959-6614-4df0-ab9a-79aa420ceb63)
+![covid_dashboard](https://github.com/user-attachments/assets/3650c175-a8e6-424d-b538-6bd2d2e676aa)
 
 
 
